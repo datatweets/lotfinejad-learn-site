@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /login/
+Disallow: /register/
+Disallow: /account/
+Disallow: /dashboard/
+Disallow: /feedback/
+Disallow: /invite/
+Disallow: /admin/
+Disallow: /organizations/
+Allow: /
+Sitemap: https://learn.lotfinejad.ir/sitemap.xml
+
