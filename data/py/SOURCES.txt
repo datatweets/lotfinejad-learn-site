@@ -1,0 +1,10 @@
+Data files used by the Python lessons on learn.lotfinejad.ir (loaded into the browser workbench; no upload, no network from learner code).
+
+day.csv, hour.csv
+  Bike Sharing Dataset, UCI Machine Learning Repository.
+  Fanaee-T, Hadi, and Gama, Joao. "Event labeling combining ensemble detectors and background knowledge." Progress in Artificial Intelligence (2013).
+  Licence: CC BY 4.0. https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
+
+i94_traffic.csv
+  Metro Interstate Traffic Volume, UCI Machine Learning Repository (hourly I-94 westbound traffic near Minneapolis-St Paul, with weather).
+  Donor: John Hogue. Licence: CC BY 4.0. https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
