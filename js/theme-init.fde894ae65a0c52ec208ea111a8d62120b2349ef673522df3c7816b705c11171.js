@@ -1,0 +1,1 @@
+(()=>{try{e=localStorage.getItem("lnj-theme"),(e==="dark"||e==="light")&&document.documentElement.setAttribute("data-theme",e)}catch{}var e;if(window.top!==window.self){document.documentElement.style.display="none";try{window.top.location.href=window.self.location.href}catch{}}})();
